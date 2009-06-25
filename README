@@ -1,0 +1,22 @@
+== CFup file upload progress indicator
+
+CFup is a file upload progress indicator written
+in ColdFusion and javascript. It makes use of other
+projects such as Scriptaculous, Prototype, and a
+modified version Fancy Upload. 
+
+After it being idle so long, I've decided to open
+source it. That forced me to finally clean up
+[some] of the code, and I'm excited to see
+contributions to further it's development.
+
+Copyright (c) 2009 Gravinese Enterprises Inc.
+Jules Gravinese : http://www.webveteran.com/
+
+== License
+
+script.aculo.us is licensed under the terms of the MIT License, 
+see the included MIT-LICENSE file.
+
+Project home:
+http://www.webveteran.com/blog/index.php/category/web-related-software/cfup/
